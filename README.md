@@ -89,7 +89,7 @@ Mediar is a simple application for creating, managing, and viewing family photo 
 
 ## How To Run
 ### Prerequisites
-- This project requires the Mediar ASP.NET API Server found [here](https://github.com/JulienToumieh1/Mediar_DOTNET_Project).
+- This project requires the Mediar ASP.NET API Server found [here](https://github.com/JulienToumieh/mediar-web-server).
 - Flutter version 3.38.7 or later
 
 ### Known Issues
