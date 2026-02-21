@@ -13,14 +13,14 @@ Mediar is a simple application for creating, managing, and viewing family photo 
 - Basic account management (create and delete accounts)
 
 ## Screenshots
-<img width="246" height="506" alt="untitled-f000000" src="https://github.com/user-attachments/assets/fdd2b2d6-c072-4939-b2ad-b6e322d1ead9" />
-<img width="246" height="506" alt="untitled-f000692" src="https://github.com/user-attachments/assets/308b77a6-82a9-40f8-b92e-53c1937f4add" />
-<img width="246" height="506" alt="untitled-f001696" src="https://github.com/user-attachments/assets/45890644-6223-4ada-a09b-68e64f684fbb" />
-<img width="246" height="506" alt="untitled-f001865" src="https://github.com/user-attachments/assets/ebc2074e-33f4-4f72-9fa7-f65369a34bfa" />
-<img width="246" height="506" alt="untitled-f002015" src="https://github.com/user-attachments/assets/116467df-b412-4da0-96df-a9a0fc246db4" />
-<img width="246" height="506" alt="untitled-f003652" src="https://github.com/user-attachments/assets/5f9b1eb4-f6b2-4a55-ad0a-9b84e5b6ecb9" />
-<img width="246" height="506" alt="untitled-f004300" src="https://github.com/user-attachments/assets/ded4836f-950b-4e02-81e2-0e19f5ba1d6e" />
-<img width="246" height="506" alt="untitled-f004413" src="https://github.com/user-attachments/assets/c63cff27-7e07-4ba9-8c8c-782ba27a2310" />
+<img width="246" height="506" alt="546760659-fdd2b2d6-c072-4939-b2ad-b6e322d1ead9" src="https://github.com/user-attachments/assets/e8c027ce-02e0-43e4-af99-8a776ab76748" />
+<img width="246" height="506" alt="546760669-308b77a6-82a9-40f8-b92e-53c1937f4add" src="https://github.com/user-attachments/assets/79cb81fb-ffa0-4d00-b480-acff4b6fe915" />
+<img width="246" height="506" alt="546760672-45890644-6223-4ada-a09b-68e64f684fbb" src="https://github.com/user-attachments/assets/284e0d50-d8ff-4857-ba7a-96267d6d18da" />
+<img width="246" height="506" alt="546760682-ebc2074e-33f4-4f72-9fa7-f65369a34bfa" src="https://github.com/user-attachments/assets/b2c2ded6-8c96-4be2-bc69-9569498dc43c" />
+<img width="246" height="506" alt="546760684-116467df-b412-4da0-96df-a9a0fc246db4" src="https://github.com/user-attachments/assets/80b405b9-cc58-4277-ac08-ec5ec50a1cc3" />
+<img width="246" height="506" alt="546760689-5f9b1eb4-f6b2-4a55-ad0a-9b84e5b6ecb9" src="https://github.com/user-attachments/assets/b34da7b3-3f35-4237-adaa-ffc299caa6f0" />
+<img width="246" height="506" alt="546760698-ded4836f-950b-4e02-81e2-0e19f5ba1d6e" src="https://github.com/user-attachments/assets/8b382552-bd35-464b-b884-aa23f51ede22" />
+<img width="246" height="506" alt="546760714-c63cff27-7e07-4ba9-8c8c-782ba27a2310" src="https://github.com/user-attachments/assets/c6459b60-7c13-408e-bbac-d6162834d044" />
 
 ## Usage
 - Create an *Admin* account first, using the web-application (currently unsupported on mobile)
